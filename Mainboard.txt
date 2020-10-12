@@ -1,0 +1,74 @@
+1 Apex Altisaur
+1 Arcane Signet
+1 Atzocan Seer
+1 Aura Shards
+1 Berserkers' Onslaught
+1 Boundless Realms
+1 Carnage Tyrant
+1 Castle Garenbrig
+1 Charging Monstrosaur
+1 Charging Tuskodon
+1 Circuitous Route
+1 Colossal Dreadmaw
+1 Command Tower
+1 Cultivate
+1 Descendants' Path
+1 Drover of the Mighty
+1 Etali, Primal Storm
+1 Exotic Orchard
+1 Explosive Vegetation
+1 Fiery Emancipation
+1 Forerunner of the Empire
+17 Forest
+1 Garruk's Uprising
+1 Genesis Wave
+1 Ghalta, Primal Hunger
+1 Gishath, Sun's Avatar
+1 Goring Ceratops
+1 Kindred Summons
+1 Kinjalli's Sunwing
+1 Knight of the Stampede
+1 Kodama's Reach
+1 Lightning Greaves
+1 Lurking Predators
+1 Majestic Heliopterus
+1 Marauding Raptor
+1 Migration Path
+1 Mosswort Bridge
+6 Mountain
+1 Nissa, Genesis Mage
+1 Overwhelming Stampede
+1 Path of Ancestry
+6 Plains
+1 Polyraptor
+1 Primal Surge
+1 Quartzwood Crasher
+1 Raging Swordtooth
+1 Rampaging Brontodon
+1 Ranging Raptors
+1 Regal Behemoth
+1 Regisaur Alpha
+1 Ripjaw Raptor
+1 Rogue's Passage
+1 Runic Armasaur
+1 Selvala's Stampede
+1 Shifting Ceratops
+1 Silverclad Ferocidons
+1 Sol Ring
+1 Spinerock Knoll
+1 Sunbird's Invocation
+1 Sunhome, Fortress of the Legion
+1 Swiftfoot Boots
+1 Temple Altisaur
+1 Thrashing Brontodon
+1 Thundering Spineback
+1 Titanoth Rex
+1 Trapjaw Tyrant
+1 Traverse the Outlands
+1 True Conviction
+1 Verdant Sun's Avatar
+1 Wakening Sun's Avatar
+1 Wayward Swordtooth
+1 Yidaro, Wandering Monster
+1 Zendikar Resurgent
+1 Zetalpa, Primal Dawn
